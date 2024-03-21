@@ -1,5 +1,9 @@
 ### 👋 Hi! I'm Guido Girardo
-ANDROID DEVELOPER
+📱 ANDROID DEVELOPER
+
+| 👾 kotlin & AndroidStudio
+| 📩 girardoguido1@gmail.com
+| 📺 i teach on youtube: "guido android developer"
 
 <!--
 **GuidoGirardo/GuidoGirardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
