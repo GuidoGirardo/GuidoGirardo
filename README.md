@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Guido Girardo
 📱 ANDROID DEVELOPER
 
-| 👾 kotlin & AndroidStudio
+| 👾 Kotlin & AndroidStudio
 | 📩 girardoguido1@gmail.com
 | 📺 i teach on <a href="https://www.youtube.com/channel/UCOnW_o7ddZy54MEzeYW2LIg">youtube</a>
 
