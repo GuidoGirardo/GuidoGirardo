@@ -3,7 +3,6 @@
 
 | 👾 Kotlin & AndroidStudio
 | 📩 girardoguido1@gmail.com
-| 📺 i teach on -> <a href="https://www.youtube.com/channel/UCOnW_o7ddZy54MEzeYW2LIg">youtube</a> |
 
 <!--
 **GuidoGirardo/GuidoGirardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
