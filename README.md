@@ -2,4 +2,4 @@
 📱 ANDROID DEVELOPER
 
 | 👾 Kotlin & JetpackCompose & AndroidStudio
-| 📩 girardoguido1@gmail.com
+| 📩 guidogirardo1@gmail.com
